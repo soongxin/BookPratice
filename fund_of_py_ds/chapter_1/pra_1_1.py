@@ -1,5 +1,9 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+编写一个程序，以球的半径（浮点数）作为输入，并且输出球体
+的直径、圆周表面积和体积
+"""
 PI = 3.1415926
 
 class Ball(object):
